@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 init_well_position.ipynb
-Untitled.ipynb
+init_project_wells_position-Copy1.ipynb
 /*.pkl
+/input
+.idea/
