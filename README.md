@@ -8,7 +8,7 @@
 
 > **Важно:**  
 > Проект носит демонстрационный характер и предназначен для показа принципа работы кода из основного проекта: 
-> [**Infill_drilling**](https://github.com/Alina-Murzakova/Infill_drilling)  
+> [**Infill_drilling** — файл drilling_zones.py](https://github.com/Alina-Murzakova/Infill_drilling/blob/main/app/drill_zones/drilling_zones.py)  
 > Часть расчета в Jupyter Notebook может отличаться от основного проекта, т.к. проект находится в разработке.
 > 
 > Исходные данные не входят в состав репозитория.  
