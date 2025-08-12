@@ -16,9 +16,9 @@
 Jupyter Notebook позволяет пошагово разобрать процесс расчёта,
 визуализировать каждый этап и при необходимости скорректировать параметры расчёта.  
 
-<div style="text-align: center;">
+<p align="center">
   <img src="images/project_wells_position.gif" alt="project_wells_position" width="500" />
-</div>
+</p>
 
 ---
 
